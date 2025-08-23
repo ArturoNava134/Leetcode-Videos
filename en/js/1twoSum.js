@@ -58,5 +58,5 @@ function twoSumOPHashMap(nums, target) {
   }
   return []; 
 }
-
+//call
 twoSumOPHashMap(nums2, target2);
